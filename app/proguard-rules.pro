@@ -1,0 +1,1 @@
+# -keep class * extends java.lang.Exception

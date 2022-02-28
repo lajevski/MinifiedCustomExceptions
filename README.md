@@ -1,4 +1,4 @@
-Example project intended for `:app:minifyReleaseWithR8` behaviour with custom exceptions. <br>
+Example project intended for `:app:minifyReleaseWithR8` behavior with custom exceptions. <br>
 
 `mapping.txt`<br>
 ![Screenshot 2022-02-28 at 12 06 38](https://user-images.githubusercontent.com/31980284/155964486-126f90a5-d5c7-4ba1-8a6b-20bdfa1e4011.png)
